@@ -161,6 +161,6 @@ the end user, which negatively impacts the image and activity of the manufacture
 
 After the bugs will be fixed full regression testing will be performed.
 
-Lessons learned can be found [here](Lessons\LESSONS LEARNED REPORT TEMPLATE.pdf)
+Lessons learned can be found [HERE](https://github.com/AnaMMarta/ITF-final-project/blob/main/GIT/Lessons/LessonsLearned.pdf)
 
 
