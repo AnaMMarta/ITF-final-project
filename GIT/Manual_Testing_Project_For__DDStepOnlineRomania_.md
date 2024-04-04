@@ -133,7 +133,7 @@ The following elements are needed to be ready before the test execution phase be
 
 <h3>1.6. Test Execution </h3>
 
-Test cases are executed on the created test Cycle summary: DDStep version 4.5
+Test cases are executed on the created test Cycle summary: DDStep version 4.5.
 
 Bugs have been created based on the failed tests. The complete bug reports can be found [HERE](https://github.com/AnaMMarta/ITF-final-project/tree/main/GIT/bug)
 
